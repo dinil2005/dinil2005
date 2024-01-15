@@ -1,4 +1,4 @@
-<img src="https://scontent.fcmb6-1.fna.fbcdn.net/v/t39.30808-6/366272096_876418967382562_4845795065687862152_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeFMSGV2Rg1d7K6PKRjqsQuK0-LYT-yQA-HT4thP7JAD4TbodduCNOLCXnCFYMBfYevhabFNogDIg-VCOcyDtp9l&_nc_ohc=b2vaQ6ior4UAX_ggXEK&_nc_zt=23&_nc_ht=scontent.fcmb6-1.fna&oh=00_AfAmIiub8Dt389ak5kdZCzoMnB_eS_1rAfooz6Q4ahE2Aw&oe=65A9CAD9" alt="Description of the image">
+<img src="https://user-images.githubusercontent.com/41365637/110252497-73cf9680-7f8e-11eb-9086-c4412505a924.gif">
 <h2 align="left">💻 Tech Stack</h2>
 
 ###
