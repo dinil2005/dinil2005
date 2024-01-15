@@ -1,4 +1,7 @@
-<img src="https://user-images.githubusercontent.com/41365637/110252497-73cf9680-7f8e-11eb-9086-c4412505a924.gif" style="height: 405px;">
+
+<h6><img src="https://media4.giphy.com/media/5quAQha5cHPayUytEh/giphy.gif" style="width: 70px;"> Welcome To My GitHub Profile</h6>
+
+<img src="https://user-images.githubusercontent.com/41365637/110252497-73cf9680-7f8e-11eb-9086-c4412505a924.gif" style="height: 305px;">
 
 <h2 align="left">💻 Tech Stack</h2>
 
